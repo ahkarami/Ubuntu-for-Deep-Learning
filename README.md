@@ -1,6 +1,8 @@
 # Ubuntu-for-Deep-Learning
 Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 
+![Logo](./FinalLogo.jpg)
+
 ## General useful links:
 - [Beginner's Guide for linux](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/)
 - [Linux tricks](https://www.tecmint.com/tag/linux-tricks/)
