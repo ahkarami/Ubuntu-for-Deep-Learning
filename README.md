@@ -13,3 +13,9 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - [How to Install Latest _Python 3.6_ Version in Linux](https://www.tecmint.com/install-python-in-linux/)
 - [20 Command Line Tools to Monitor Linux Performance](https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
 
+## Install required packages:
+
+### Install opencv-python:
+- Type `sudo su` in ubuntu terminal
+- After inserting your ubuntu's password, then type `pip3 install --upgrade opencv-python`  
+
