@@ -13,6 +13,14 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - [How to Install Latest _Python 3.6_ Version in Linux](https://www.tecmint.com/install-python-in-linux/)
 - [20 Command Line Tools to Monitor Linux Performance](https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
 
+## Install deep learning packages:
+
+### Install PyTorch (for python 3.5 & CUDA 9.0):
+- Type `sudo su` in ubuntu terminal
+- After inserting your ubuntu's password, then type `pip3 install --upgrade http://download.pytorch.org/whl/cu90/torch-0.3.1-cp35-cp35m-linux_x86_64.whl`
+- Type `pip3 install --upgrade torchvision`
+
+
 ## Install required packages:
 
 ### Install opencv-python:
