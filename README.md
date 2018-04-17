@@ -23,6 +23,13 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 
 ## Install required packages:
 
+### Install `pip3` on ubuntu:
+- Type `sudo apt-get update`
+- Type `sudo su` in ubuntu terminal
+- After inserting your ubuntu's password, then type `apt install python3-pip`
+- After install _pip3_ then upgrade it via the below command:
+- `pip3 install --upgrade setuptools pip`
+
 ### Install opencv-python:
 - Type `sudo su` in ubuntu terminal
 - After inserting your ubuntu's password, then type `pip3 install --upgrade opencv-python`  
