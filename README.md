@@ -20,6 +20,13 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - After inserting your ubuntu's password, then type `pip3 install --upgrade http://download.pytorch.org/whl/cu90/torch-0.3.1-cp35-cp35m-linux_x86_64.whl`
 - Type `pip3 install --upgrade torchvision`
 
+### Install TensorFlow 1.7 GPU based (for python 3.5 & CUDA 9.0):
+- First download its `whl` file via the below command:
+- `wget https://files.pythonhosted.org/packages/e3/e8/9496b0663fef0415094a598deb1099aaa2a69f2bc9d924cafd05677d3c85/tensorflow_gpu-1.7.0-cp35-cp35m-manylinux1_x86_64.whl`
+- Then type `sudo su` in ubuntu terminal
+- After inserting your ubuntu's password, then type `pip3 install --upgrade YourDownloadedAddress/tensorflow_gpu-1.7.0-cp35-cp35m-manylinux1_x86_64.whl`
+- **Note** that in the above command the `YourDownloadedAddress` is the address of `whl` file (_e.g.,_ `/home/smith/Programs`) 
+
 
 ## Install required packages:
 
