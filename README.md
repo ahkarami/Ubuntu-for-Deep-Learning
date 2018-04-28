@@ -41,3 +41,6 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - Type `sudo su` in ubuntu terminal
 - After inserting your ubuntu's password, then type `pip3 install --upgrade opencv-python`  
 
+### Install h5py:
+- Type `sudo su` in ubuntu terminal
+- After inserting your ubuntu's password, then type `pip3 install --upgrade h5py`  
