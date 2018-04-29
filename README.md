@@ -15,7 +15,7 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 
 ## Install deep learning packages:
 
-### Install PyTorch (for python 3.5 & CUDA 9.0):
+### Install PyTorch 0.3.1 (for python 3.5 & CUDA 9.0):
 - Type `sudo su` in ubuntu terminal
 - After inserting your ubuntu's password, then type `pip3 install --upgrade http://download.pytorch.org/whl/cu90/torch-0.3.1-cp35-cp35m-linux_x86_64.whl`
 - Type `pip3 install --upgrade torchvision`
