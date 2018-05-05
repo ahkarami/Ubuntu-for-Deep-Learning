@@ -27,6 +27,10 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - After inserting your ubuntu's password, then type `pip3 install --upgrade YourDownloadedAddress/tensorflow_gpu-1.7.0-cp35-cp35m-manylinux1_x86_64.whl`
 - **Note** that in the above command the `YourDownloadedAddress` is the address of `whl` file (_e.g.,_ `/home/smith/Programs`) 
 
+### Install MXNet 1.2.0 (for python 3.5 & CUDA 9.0):
+- Type `sudo su` in ubuntu terminal
+- After inserting your ubuntu's password, then type `pip3 install --upgrade mxnet-cu90 --pre`
+
 
 ## Install required packages:
 
