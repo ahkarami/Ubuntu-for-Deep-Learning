@@ -45,6 +45,14 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - Type `sudo su` in ubuntu terminal
 - After inserting your ubuntu's password, then type `pip3 install --upgrade opencv-python`
 
+### Install opencv-contrib-python:
+- Type `sudo su` in ubuntu terminal
+- After inserting your ubuntu's password, then type `pip3 install --upgrade opencv-contrib-python`
+
+### Install Pillow:
+- Type `sudo su` in ubuntu terminal
+- After inserting your ubuntu's password, then type `pip3 install --upgrade Pillow`
+
 ### Install scikit-learn:
 - Type `sudo su` in ubuntu terminal
 - After inserting your ubuntu's password, then type `pip3 install --upgrade -U scikit-learn`  
