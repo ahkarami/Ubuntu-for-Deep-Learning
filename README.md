@@ -12,6 +12,7 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - [How To Install `pip` to Manage Python Packages in Linux](https://www.tecmint.com/install-pip-in-linux/)
 - [How to Install Latest _Python 3.6_ Version in Linux](https://www.tecmint.com/install-python-in-linux/)
 - [20 Command Line Tools to Monitor Linux Performance](https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
+- [Check CUDA and cuDNN version](https://medium.com/@changrongko/nv-how-to-check-cuda-and-cudnn-version-e05aa21daf6c)
 
 ## Install deep learning packages:
 
