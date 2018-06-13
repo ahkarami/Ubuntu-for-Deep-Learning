@@ -14,6 +14,13 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - [20 Command Line Tools to Monitor Linux Performance](https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
 - [Check CUDA and cuDNN version](https://medium.com/@changrongko/nv-how-to-check-cuda-and-cudnn-version-e05aa21daf6c)
 
+### Package Management Notes in Ubuntu:
+- [3 Command Line Tools to Install Local Debian (.DEB) Packages](https://www.tecmint.com/install-local-deb-packages-in-debian-ubuntu-linux-mint/)
+- [15 Practical Examples of `dpkg commands` for Debian Based Distros](https://www.tecmint.com/dpkg-command-examples/)
+- [General notes about Package Management in Ubuntu](https://help.ubuntu.com/lts/serverguide/package-management.html.en)
+- [dpkg](https://help.ubuntu.com/lts/serverguide/dpkg.html.en)
+- [Apt](https://help.ubuntu.com/lts/serverguide/apt.html.en)
+
 ## Install deep learning packages:
 
 ### Install PyTorch 0.3.1 (for python 3.5 & CUDA 9.0):
@@ -21,7 +28,7 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - After inserting your ubuntu's password, then type `pip3 install --upgrade http://download.pytorch.org/whl/cu90/torch-0.3.1-cp35-cp35m-linux_x86_64.whl`
 - Type `pip3 install --upgrade torchvision`
 
-### Install TensorFlow 1.7 GPU based (for python 3.5 & CUDA 9.0):
+### Install TensorFlow 1.7 GPU based (for python 3.5 & CUDA 9.0 & cuDNN 7.0.5):
 - First download its `whl` file via the below command:
 - ```wget https://files.pythonhosted.org/packages/e3/e8/9496b0663fef0415094a598deb1099aaa2a69f2bc9d924cafd05677d3c85/tensorflow_gpu-1.7.0-cp35-cp35m-manylinux1_x86_64.whl```
 - Then type `sudo su` in ubuntu terminal
