@@ -39,6 +39,10 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - Type `sudo su` in ubuntu terminal
 - After inserting your ubuntu's password, then type `pip3 install --upgrade mxnet-cu90 --pre`
 
+### Install Keras 2.2.0 (for python 3.5 & CUDA 9.0 & cuDNN 7.0.5 & TensorFlow Backend):
+- Type `sudo su` in ubuntu terminal
+- After inserting your ubuntu's password, then type `pip3 install --upgrade keras`
+
 
 ## Install required packages:
 
