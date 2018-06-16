@@ -21,6 +21,9 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - [dpkg](https://help.ubuntu.com/lts/serverguide/dpkg.html.en)
 - [Apt](https://help.ubuntu.com/lts/serverguide/apt.html.en)
 
+### Python Virtual Environments:
+- [Python Virtual Environments](https://realpython.com/python-virtual-environments-a-primer/)
+
 ## Install deep learning packages:
 
 ### Install PyTorch 0.3.1 (for python 3.5 & CUDA 9.0):
