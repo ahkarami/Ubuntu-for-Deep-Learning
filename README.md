@@ -46,6 +46,21 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - Type `sudo su` in ubuntu terminal
 - After inserting your ubuntu's password, then type `pip3 install --upgrade keras`
 
+### Install 2 Different Versions of a package (_e.g.,_ PyTorch) on a Single System:
+Suppose one wants to install 2 different versions of a deep learning package (_e.g.,_ PyTorch) on a single system. We assume that the _PyTorch 0.3.1_ has been installed via _pip3_. Now we want to install _PyTorch 0.4.0_ (_i.e.,_ we want to have both versions on a signle system). To this end, follow below instructions:
+1- `sudo mkdir /opt/pytorch4`
+2- `sudo chown -R username:username /opt/pytorch4` (**Note:** instead of `username` you must type your username (_e.g.,_ smith))
+3- Download the _*.whl_ file of _PyTorch 0.4.0_ from its Pip3 Repository
+4- Extract it
+5- Copy all of the extracted files into "/opt/pytorch4"
+6- When run Python3 the type:
+```python
+import sys
+sys.path.insert(0, "/opt/pytorch4/")
+print(torch.__version__) 
+```
+7- **Note:** If you don't type the above commands, then the default version of PyTorch (_i.e.,_ the previous installed it via pip3 (0.3.1 version)) is worked.
+
 
 ## Install required packages:
 
