@@ -90,3 +90,11 @@ print(torch.__version__)
 ### Install h5py:
 - Type `sudo su` in ubuntu terminal
 - After inserting your ubuntu's password, then type `pip3 install --upgrade h5py`  
+
+
+## Other Useful Notes:
+
+### Open New Terminal:
+- `Ctrl + Alt + T` that opened a terminal window.
+- `Ctrl + Shift + T` that opened a new tab in a terminal.
+
