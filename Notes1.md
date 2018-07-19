@@ -18,3 +18,5 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 `# pidof mysqld` 
 
 
+## Shutdown Commands in Ubuntu:
+- [Understanding Shutdown, Poweroff, Halt and Reboot Commands in Linux](https://www.tecmint.com/shutdown-poweroff-halt-and-reboot-commands-in-linux/)
