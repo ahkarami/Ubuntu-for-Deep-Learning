@@ -20,3 +20,10 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 
 ## Shutdown Commands in Ubuntu:
 - [Understanding Shutdown, Poweroff, Halt and Reboot Commands in Linux](https://www.tecmint.com/shutdown-poweroff-halt-and-reboot-commands-in-linux/)
+
+## Install `Tex` in Ubuntu:
+- type `sudo apt-get install texlive`
+- type `sudo apt-get install texstudio`
+
+- Refrence: [Installing LaTeX on Ubuntu](https://dzone.com/articles/installing-latex-ubuntu)
+
