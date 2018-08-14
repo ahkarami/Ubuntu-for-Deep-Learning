@@ -27,6 +27,10 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 ### Managing Python Version Dependencies:
 - [Managing Dependencies in Python](https://tech.instacart.com/freezing-pythons-dependency-hell-in-2018-f1076d625241)
 
+### Docker:
+- [Learn more about how to install docker](https://github.com/Microsoft/MMdnn/blob/master/docs/InstallDockerCE.md) [_Install Docker Community Edition(CE)_]
+
+
 ## Install deep learning packages:
 
 ### Install PyTorch 0.3.1 (for python 3.5 & CUDA 9.0):
