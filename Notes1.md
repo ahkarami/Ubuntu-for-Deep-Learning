@@ -29,3 +29,5 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 
 - Refrence: [Installing LaTeX on Ubuntu](https://dzone.com/articles/installing-latex-ubuntu)
 
+## Configuring Ubuntu for Deep Learning Code Developers:
+- [Configuring Ubuntu for deep learning with Python](https://www.pyimagesearch.com/2017/09/25/configuring-ubuntu-for-deep-learning-with-python/)
