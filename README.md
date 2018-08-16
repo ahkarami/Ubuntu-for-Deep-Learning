@@ -86,6 +86,13 @@ print(torch.__version__)
 - Type `sudo su` in ubuntu terminal
 - After inserting your ubuntu's password, then type `pip3 install --upgrade opencv-contrib-python`
 
+### Install [Dlib](https://github.com/davisking/dlib):
+- `sudo apt-get install build-essential cmake`
+- `sudo apt-get install libgtk-3-dev`
+- `sudo apt-get install libboost-all-dev`
+- `sudo su`
+- `pip3 install dlib`
+
 ### Install Pillow:
 - Type `sudo su` in ubuntu terminal
 - After inserting your ubuntu's password, then type `pip3 install --upgrade Pillow`
