@@ -31,3 +31,4 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 
 ## Configuring Ubuntu for Deep Learning Code Developers:
 - [Configuring Ubuntu for deep learning with Python](https://www.pyimagesearch.com/2017/09/25/configuring-ubuntu-for-deep-learning-with-python/)
+- [The perfect computer vision environment: PyCharm, OpenCV, and Python virtual environments](https://www.pyimagesearch.com/2015/08/17/the-perfect-computer-vision-environment-pycharm-opencv-and-python-virtual-environments/)
