@@ -105,6 +105,8 @@ print(torch.__version__)
 - Type `sudo su` in ubuntu terminal
 - After inserting your ubuntu's password, then type `pip3 install --upgrade h5py`  
 
+### Install OpenCV in Ubuntu for C++:
+- [How to Install OpenCV in Ubuntu 16.04 LTS for C / C++](http://www.codebind.com/cpp-tutorial/install-opencv-ubuntu-cpp/)
 
 ## Other Useful Notes:
 
