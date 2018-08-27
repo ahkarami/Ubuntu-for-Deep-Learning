@@ -29,6 +29,9 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 
 - Refrence: [Installing LaTeX on Ubuntu](https://dzone.com/articles/installing-latex-ubuntu)
 
+## Some Notes about Terminal in Ubuntu:
+- [How you can style your terminal like Medium, freeCodeCamp, or any way you want](https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc)
+
 ## Configuring Ubuntu for Deep Learning Code Developers:
 - [Configuring Ubuntu for deep learning with Python](https://www.pyimagesearch.com/2017/09/25/configuring-ubuntu-for-deep-learning-with-python/)
 - [The perfect computer vision environment: PyCharm, OpenCV, and Python virtual environments](https://www.pyimagesearch.com/2015/08/17/the-perfect-computer-vision-environment-pycharm-opencv-and-python-virtual-environments/)
