@@ -31,6 +31,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 
 ## Some Notes about Terminal in Ubuntu:
 - [How you can style your terminal like Medium, freeCodeCamp, or any way you want](https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc)
+- [A Gentle Introduction to tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)
 
 ## Configuring Ubuntu for Deep Learning Code Developers:
 - [Configuring Ubuntu for deep learning with Python](https://www.pyimagesearch.com/2017/09/25/configuring-ubuntu-for-deep-learning-with-python/)
