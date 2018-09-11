@@ -34,6 +34,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [A Gentle Introduction to tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)
 
 ## Some Notes about Python:
+- [Python, argparse, and command line arguments](https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/) [**Very Important**]
 - [Python Tricks 101](https://hackernoon.com/python-tricks-101-2836251922e0)
 
 ## Configuring Ubuntu for Deep Learning Code Developers:
