@@ -40,7 +40,8 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [Python Tricks 101](https://hackernoon.com/python-tricks-101-2836251922e0)
 - [Essential ML Cheat Sheets](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5) [_Very Important & Useful_]
 - [Cheat Sheets AI](https://github.com/kailashahirwar/cheatsheets-ai) [_Very Important & Useful_]
-- [Create your own API from Websites](https://medium.com/@mottet.dev/scrapy-and-scrapyrt-how-to-create-your-own-api-from-almost-any-website-ecfb0058ad64)  
+- [Create your own API from Websites](https://medium.com/@mottet.dev/scrapy-and-scrapyrt-how-to-create-your-own-api-from-almost-any-website-ecfb0058ad64)
+- [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)  
 
 ## Configuring Ubuntu for Deep Learning Code Developers:
 - [Configuring Ubuntu for deep learning with Python](https://www.pyimagesearch.com/2017/09/25/configuring-ubuntu-for-deep-learning-with-python/)
