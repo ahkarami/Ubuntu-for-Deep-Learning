@@ -23,6 +23,9 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - Example1:  
 `shutdown 13:20` --> This command will shutdown your computer at 13:20'.
 
+## Find Last Shutdown time in ubuntu:
+- `last -x|grep shutdown | head -1`  
+
 ## Install `Tex` in Ubuntu:
 - type `sudo apt-get install texlive`
 - type `sudo apt-get install texstudio`
