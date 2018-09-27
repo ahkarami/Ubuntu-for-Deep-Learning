@@ -44,6 +44,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [Python Tricks 101](https://hackernoon.com/python-tricks-101-2836251922e0)
 - [Essential ML Cheat Sheets](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5) [_Very Important & Useful_]
 - [Cheat Sheets AI](https://github.com/kailashahirwar/cheatsheets-ai) [_Very Important & Useful_]
+- [How to Generate a Word Cloud of Any Shape in Python](https://blog.goodaudience.com/how-to-generate-a-word-cloud-of-any-shape-in-python-7bce27a55f6e)
 - [Create your own API from Websites](https://medium.com/@mottet.dev/scrapy-and-scrapyrt-how-to-create-your-own-api-from-almost-any-website-ecfb0058ad64)
 - [How to Run Parallel Data Analysis in Python using Dask Dataframes](https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915)
 - [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)  
