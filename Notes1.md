@@ -26,6 +26,9 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 ## Find Last Shutdown time in ubuntu:
 - `last -x|grep shutdown | head -1`  
 
+## GPU Process Monitoring in Ubuntu:
+- `watch -n0.1 nvidia-smi` --> Where 0.1 is the time interval, in seconds.  
+
 ## Install `Tex` in Ubuntu:
 - type `sudo apt-get install texlive`
 - type `sudo apt-get install texstudio`
