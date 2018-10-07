@@ -24,7 +24,8 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 `shutdown 13:20` --> This command will shutdown your computer at 13:20'.
 
 ## Find Last Shutdown time in ubuntu:
-- `last -x|grep shutdown | head -1`  
+- `last -x|grep shutdown | head -1`
+- [Linux Find Out Last System Reboot Time and Date Command](https://www.cyberciti.biz/tips/linux-last-reboot-time-and-date-find-out.html)  
 
 ## GPU Process Monitoring in Ubuntu:
 - `watch -n0.1 nvidia-smi` --> Where 0.1 is the time interval, in seconds.  
