@@ -64,6 +64,7 @@ Suppose one wants to install 2 different versions of a deep learning package (_e
 ```python
 import sys
 sys.path.insert(0, "/opt/pytorch4/")
+import torch
 print(torch.__version__) 
 ```
 - 7- **Note:** If you don't type the above commands, then the default version of PyTorch (_i.e.,_ the previous installed it via pip3 (0.3.1 version)) is worked.
