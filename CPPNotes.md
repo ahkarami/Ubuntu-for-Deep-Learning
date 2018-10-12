@@ -8,3 +8,4 @@
 
 ## Integrate Additional C++ Libraries for CLion IDE on Ubuntu 16.04:
 - [Setting up OpenCV 3.0.0 + JetBrains CLion on Debian-based Linux Distros - Video Tutorial](https://www.youtube.com/watch?v=i1K9rXiei9I)  
+- [Add external c++ libraries to a CLion project](https://stackoverflow.com/questions/44998233/add-external-c-libraries-to-a-clion-project)
