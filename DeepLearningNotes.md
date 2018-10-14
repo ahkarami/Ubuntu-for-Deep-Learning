@@ -6,8 +6,8 @@
 - [Four Skills a Business Designer Needs to Master](https://medium.muz.li/four-skills-a-business-designer-needs-to-master-2a03569f7e43)
 
 ## News about Deep Learning:
-- [What’s New in Deep Learning Research: Microsoft Wants to Use Generative Adversarial Networks with Discrete Data](https://towardsdatascience.com/whats-new-in-deep-learning-research-microsoft-wants-to-use-generative-adversarial-networks-with-1838f0b15741)
-- [What’s New in Deep Learning Research: Stronger Learning with Differentiable Plasticity](https://towardsdatascience.com/whats-new-in-deep-learning-research-stronger-learning-with-differentiable-plasticity-9b793a5e3da3) 
+- [Whatâ€™s New in Deep Learning Research: Microsoft Wants to Use Generative Adversarial Networks with Discrete Data](https://towardsdatascience.com/whats-new-in-deep-learning-research-microsoft-wants-to-use-generative-adversarial-networks-with-1838f0b15741)
+- [Whatâ€™s New in Deep Learning Research: Stronger Learning with Differentiable Plasticity](https://towardsdatascience.com/whats-new-in-deep-learning-research-stronger-learning-with-differentiable-plasticity-9b793a5e3da3) 
 
 
 
