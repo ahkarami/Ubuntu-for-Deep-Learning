@@ -4,6 +4,7 @@
 - [Why Business Design is the Most Important Skill of the Future](https://medium.muz.li/why-business-design-is-the-most-important-skill-of-the-future-b0ed451003c7)
 - [Why the Right Mindset is Crucial to Becoming a Successful Business Designer](https://medium.muz.li/why-the-right-mindset-is-crucial-to-becoming-a-successful-business-designer-c554396776ad)
 - [Four Skills a Business Designer Needs to Master](https://medium.muz.li/four-skills-a-business-designer-needs-to-master-2a03569f7e43)
+- [Biggest Artificial Intelligence Startups 2018](https://medium.com/swlh/biggest-artificial-intelligence-startups-2018-6722f4c733e2)  
 
 ## News about Deep Learning:
 - [What’s New in Deep Learning Research: Microsoft Wants to Use Generative Adversarial Networks with Discrete Data](https://towardsdatascience.com/whats-new-in-deep-learning-research-microsoft-wants-to-use-generative-adversarial-networks-with-1838f0b15741)
