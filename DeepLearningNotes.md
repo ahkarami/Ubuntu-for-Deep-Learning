@@ -13,6 +13,7 @@
 - [30 Amazing Machine Learning Projects](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
 - [How I trained a language detection AI in 20 minutes with a 97% accuracy](https://towardsdatascience.com/how-i-trained-a-language-detection-ai-in-20-minutes-with-a-97-accuracy-fdeca0fb7724)
 - [What’s New In Deep Learning Research: The Sentiment Neuron](https://towardsdatascience.com/whats-new-in-deep-learning-research-the-sentiment-neuron-4cd8ad1c6b26)
+- [Amazon Owns Half of Ecommerce in the U.S.](https://medium.com/futuresin/amazon-owns-half-of-ecommerce-in-the-u-s-904523f7aea2)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 
