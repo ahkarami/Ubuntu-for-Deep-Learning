@@ -16,4 +16,6 @@
 - [Amazon Owns Half of Ecommerce in the U.S.](https://medium.com/futuresin/amazon-owns-half-of-ecommerce-in-the-u-s-904523f7aea2)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
+## Interesting Stories about Job Finding:
+- [How I got my first developer job at age 40 after 10 months of hard work](https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b)
 
