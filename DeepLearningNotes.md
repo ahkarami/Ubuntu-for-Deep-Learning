@@ -20,4 +20,4 @@
 
 ## Interesting Stories about Job Finding:
 - [How I got my first developer job at age 40 after 10 months of hard work](https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b)
-
+- [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)  
