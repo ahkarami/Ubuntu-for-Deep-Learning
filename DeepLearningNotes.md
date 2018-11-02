@@ -5,6 +5,7 @@
 - [Why the Right Mindset is Crucial to Becoming a Successful Business Designer](https://medium.muz.li/why-the-right-mindset-is-crucial-to-becoming-a-successful-business-designer-c554396776ad)
 - [Four Skills a Business Designer Needs to Master](https://medium.muz.li/four-skills-a-business-designer-needs-to-master-2a03569f7e43)
 - [Internet Trends 2018: what does it mean for You, Platforms and Society](https://stories.platformdesigntoolkit.com/internet-trends-2018-what-does-it-mean-for-you-platforms-and-society-c2ff479f7d6e)
+- [Mobile apps will disappear soon](https://medium.com/@lancengym/mobile-apps-will-disappear-soon-4b4e54f46eb8)
 - [Biggest Artificial Intelligence Startups 2018](https://medium.com/swlh/biggest-artificial-intelligence-startups-2018-6722f4c733e2)  
 
 ## News about Deep Learning:
