@@ -18,6 +18,7 @@
 - [Quick Draw: the world’s largest doodle dataset](https://towardsdatascience.com/quick-draw-the-worlds-largest-doodle-dataset-823c22ffce6b)
 - [Teaching Computers How to Code](https://towardsdatascience.com/whats-new-in-deep-learning-research-teaching-computers-how-to-code-5c71e660a827)
 - [Deep learning for recommender systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
+- [Hacking Captcha with Deep Learning](https://medium.com/@normanyahq/breaking-the-captcha-an-application-of-enhancing-machine-learning-with-large-scale-graph-9366c9fcef07?source=email-2747cb15a660-1536122729018-digest.reader------1-59------------------d83bdb89_0d8f_474e_929d_3bcd99fba68a-1&sectionName=top)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 ## Interesting Stories about Job Finding:
