@@ -45,6 +45,10 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [How to Install Ubuntu 16.10/16.04 Alongside With Windows 10 or 8 in Dual-Boot](https://www.tecmint.com/install-ubuntu-16-04-alongside-with-windows-10-or-8-in-dual-boot/)
 - [Installing Ubuntu 18.04 along with Windows 10 (Dual Boot Installation) for Deep Learning](https://hackernoon.com/installing-ubuntu-18-04-along-with-windows-10-dual-boot-installation-for-deep-learning-f4cd91b58557)  
 
+## Install Nvidia Drivers in Ubuntu:
+- [How to Install Nvidia Drivers in Ubuntu](https://www.tecmint.com/install-nvidia-drivers-on-ubuntu/)
+- [Install NVIDIA Driver and CUDA on Ubuntu](https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07)  
+
 ## Some Notes about Python:
 - [Python, argparse, and command line arguments](https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/) [**Very Important**]
 - [Tools to run Python on Android](https://medium.com/@umerfarooq_26378/tools-to-run-python-on-android-9060663972b4) [_Very Interesting_]
