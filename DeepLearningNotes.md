@@ -22,6 +22,7 @@
 - [Hacking Captcha with Deep Learning](https://medium.com/@normanyahq/breaking-the-captcha-an-application-of-enhancing-machine-learning-with-large-scale-graph-9366c9fcef07?source=email-2747cb15a660-1536122729018-digest.reader------1-59------------------d83bdb89_0d8f_474e_929d_3bcd99fba68a-1&sectionName=top)
 - [In Two Years, There Could Be 10 Million Self-Driving Cars on the Roads](https://medium.com/stanford-magazine/self-driving-cars-b23b66e3e9b0)
 - [Making Deep Learning User-Friendly, Possible?](https://towardsdatascience.com/making-deep-learning-user-friendly-possible-8fe3c1220f9)
+- [**Keras vs PyTorch: how to distinguish Aliens vs Predators with transfer learning**](https://medium.freecodecamp.org/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 ## Interesting Stories about Job Finding:
