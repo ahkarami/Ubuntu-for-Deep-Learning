@@ -23,6 +23,7 @@
 - [In Two Years, There Could Be 10 Million Self-Driving Cars on the Roads](https://medium.com/stanford-magazine/self-driving-cars-b23b66e3e9b0)
 - [Making Deep Learning User-Friendly, Possible?](https://towardsdatascience.com/making-deep-learning-user-friendly-possible-8fe3c1220f9)
 - [**Keras vs PyTorch: how to distinguish Aliens vs Predators with transfer learning**](https://medium.freecodecamp.org/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02)
+- [Variational AutoEncoders for new fruits with Keras and Pytorch](https://becominghuman.ai/variational-autoencoders-for-new-fruits-with-keras-and-pytorch-6d0cfc4eeabd)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 ## Interesting Stories about Job Finding:
