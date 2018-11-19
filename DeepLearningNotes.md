@@ -29,6 +29,7 @@
 
 ## Interesting Stories about Job Finding:
 - [How I got my first developer job at age 40 after 10 months of hard work](https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b)
+- [How To Build The Creative Career Of Your Dreams](https://medium.com/an-idea-for-you/how-to-build-the-creative-career-of-your-dreams-ee70d2348d1a)
 - [80% of all machine learning engineers work at Google or Facebook](https://medium.com/@aaronedell/80-of-all-machine-learning-engineers-work-at-google-or-facebook-6a8e315436e8)
 - [How to Get an AI Internship](https://www.youtube.com/watch?v=CGTn0ceOaOM)
 - [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)  
