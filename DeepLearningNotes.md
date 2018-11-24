@@ -25,6 +25,7 @@
 - [**Keras vs PyTorch: how to distinguish Aliens vs Predators with transfer learning**](https://medium.freecodecamp.org/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02)
 - [Variational AutoEncoders for new fruits with Keras and Pytorch](https://becominghuman.ai/variational-autoencoders-for-new-fruits-with-keras-and-pytorch-6d0cfc4eeabd)
 - [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
+- [Deep Learning for Recommender Systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 ## Interesting Stories about Job Finding:
