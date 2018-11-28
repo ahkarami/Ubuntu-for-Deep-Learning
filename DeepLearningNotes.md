@@ -27,6 +27,7 @@
 - [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
 - [Deep Learning for Recommender Systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
 - [My secret sauce to be in top 2% of a kaggle competition](https://towardsdatascience.com/my-secret-sauce-to-be-in-top-2-of-a-kaggle-competition-57cff0677d3c)
+- [CNN for Gesture Recognition](https://medium.com/the-research-nest/applied-machine-learning-part-2-a4ba715649d1)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 ## Interesting Stories about Job Finding:
