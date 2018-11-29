@@ -28,6 +28,7 @@
 - [Deep Learning for Recommender Systems](https://ebaytech.berlin/deep-learning-for-recommender-systems-48c786a20e1a)
 - [My secret sauce to be in top 2% of a kaggle competition](https://towardsdatascience.com/my-secret-sauce-to-be-in-top-2-of-a-kaggle-competition-57cff0677d3c)
 - [CNN for Gesture Recognition](https://medium.com/the-research-nest/applied-machine-learning-part-2-a4ba715649d1)
+- [Using Tensorflow Object Detection to control first-person shooter games](https://towardsdatascience.com/using-tensorflow-object-detection-to-control-first-person-shooter-games-c2c7f1daf2e9)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 ## Interesting Stories about Job Finding:
