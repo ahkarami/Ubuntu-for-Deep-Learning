@@ -38,6 +38,7 @@
 - [How to Get an AI Internship](https://www.youtube.com/watch?v=CGTn0ceOaOM)
 - [I just got a developer job at Facebook _Interview Notes_](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
 - [I Hire Software Developers. Your Resume Is The Reason You’re Not Getting Interviews](https://medium.com/@dominicwhite/i-hire-software-developers-your-resume-is-the-reason-youre-not-getting-interviews-dc7b2520a2f1)
+- [How to Get More Work Done in a Week Than Most People Do in a Month](https://medium.com/personal-growth/how-to-get-more-work-done-in-a-week-than-most-people-do-in-a-month-ca0328a0cdd2)
 - [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)  
 
 ## Other:
