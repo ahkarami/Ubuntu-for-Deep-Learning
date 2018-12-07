@@ -11,6 +11,7 @@
 
 ## News about Deep Learning:
 - [**Identifying the Genre of a Song with Neural Networks**](https://medium.com/@navdeepsingh_2336/identifying-the-genre-of-a-song-with-neural-networks-851db89c42f0) [_Very Good_]
+- [**The 10 coolest papers from CVPR 2018**](https://towardsdatascience.com/the-10-coolest-papers-from-cvpr-2018-11cb48585a49) [_Very Useful_]
 - [What’s New in Deep Learning Research: Microsoft Wants to Use Generative Adversarial Networks with Discrete Data](https://towardsdatascience.com/whats-new-in-deep-learning-research-microsoft-wants-to-use-generative-adversarial-networks-with-1838f0b15741)
 - [What’s New in Deep Learning Research: Stronger Learning with Differentiable Plasticity](https://towardsdatascience.com/whats-new-in-deep-learning-research-stronger-learning-with-differentiable-plasticity-9b793a5e3da3) 
 - [30 Amazing Machine Learning Projects](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
