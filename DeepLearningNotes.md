@@ -31,6 +31,7 @@
 - [My secret sauce to be in top 2% of a kaggle competition](https://towardsdatascience.com/my-secret-sauce-to-be-in-top-2-of-a-kaggle-competition-57cff0677d3c)
 - [CNN for Gesture Recognition](https://medium.com/the-research-nest/applied-machine-learning-part-2-a4ba715649d1)
 - [Using Tensorflow Object Detection to control first-person shooter games](https://towardsdatascience.com/using-tensorflow-object-detection-to-control-first-person-shooter-games-c2c7f1daf2e9)
+- [Extracting Value from Data with Deep Learning](https://medium.com/missinglink-deep-learning-platform/extracting-value-from-data-with-deep-learning-8f21f88936fb)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 ## Interesting Stories about Job Finding:
