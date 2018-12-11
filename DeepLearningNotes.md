@@ -7,6 +7,7 @@
 - [Internet Trends 2018: what does it mean for You, Platforms and Society](https://stories.platformdesigntoolkit.com/internet-trends-2018-what-does-it-mean-for-you-platforms-and-society-c2ff479f7d6e)
 - [Mobile apps will disappear soon](https://medium.com/@lancengym/mobile-apps-will-disappear-soon-4b4e54f46eb8)
 - [These 3 markets aren’t yet being served by AI and deep learning](https://towardsdatascience.com/these-3-markets-arent-yet-being-served-by-ai-and-deep-learning-3cde7ad20d50)
+- [Startups: What They Need to Know](https://medium.com/datadriveninvestor/startups-what-they-need-to-know-3ec719575d23)
 - [Biggest Artificial Intelligence Startups 2018](https://medium.com/swlh/biggest-artificial-intelligence-startups-2018-6722f4c733e2)  
 
 ## News about Deep Learning:
