@@ -65,6 +65,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [Extracting colours from an image using k-means clustering](https://towardsdatascience.com/extracting-colours-from-an-image-using-k-means-clustering-9616348712be)
 - [An Introduction to Text Summarization using the TextRank Algorithm (with Python implementation)](https://medium.com/analytics-vidhya/an-introduction-to-text-summarization-using-the-textrank-algorithm-with-python-implementation-2370c39d0c60)
 - [Duplicate Image Finder](https://github.com/philipbl/duplicate-images) [_Useful Repository_]
+- [How to build an image duplicate finder for your dataset](https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2) [_Useful Repository_]
 - [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)  
 
 ## Configuring Ubuntu for Deep Learning Code Developers:
