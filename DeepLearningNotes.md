@@ -33,6 +33,7 @@
 - [CNN for Gesture Recognition](https://medium.com/the-research-nest/applied-machine-learning-part-2-a4ba715649d1)
 - [Using Tensorflow Object Detection to control first-person shooter games](https://towardsdatascience.com/using-tensorflow-object-detection-to-control-first-person-shooter-games-c2c7f1daf2e9)
 - [Extracting Value from Data with Deep Learning](https://medium.com/missinglink-deep-learning-platform/extracting-value-from-data-with-deep-learning-8f21f88936fb)
+- [Text classification with MXNet](https://thomasdelteil.github.io/TextClassificationCNNs_MXNet/)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 ## Interesting Stories about Job Finding:
