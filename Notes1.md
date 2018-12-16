@@ -67,6 +67,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [Batch and Streaming in the World of Data Science and Data Engineering](https://medium.com/capital-one-tech/batch-and-streaming-in-the-world-of-data-science-and-data-engineering-2cc029cdf554)
 - [Duplicate Image Finder](https://github.com/philipbl/duplicate-images) [_Useful Repository_]
 - [How to build an image duplicate finder for your dataset](https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2) [_Useful Repository_]
+- [Fast, optimized ‘for’ pixel loops with OpenCV and Python](https://www.pyimagesearch.com/2017/08/28/fast-optimized-for-pixel-loops-with-opencv-and-python/) [_Useful_]
 - [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)  
 
 ## Configuring Ubuntu for Deep Learning Code Developers:
