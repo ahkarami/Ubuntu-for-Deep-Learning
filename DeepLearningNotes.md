@@ -33,6 +33,7 @@
 - [CNN for Gesture Recognition](https://medium.com/the-research-nest/applied-machine-learning-part-2-a4ba715649d1)
 - [Using Tensorflow Object Detection to control first-person shooter games](https://towardsdatascience.com/using-tensorflow-object-detection-to-control-first-person-shooter-games-c2c7f1daf2e9)
 - [Extracting Value from Data with Deep Learning](https://medium.com/missinglink-deep-learning-platform/extracting-value-from-data-with-deep-learning-8f21f88936fb)
+- [Train a Choripan Classifier with Fastai 1.0 & Google Colab](https://medium.com/@nicolas.metallo/train-a-choripan-classifier-with-fast-ai-v1-in-google-colab-6e438817656a)
 - [Text classification with MXNet](https://thomasdelteil.github.io/TextClassificationCNNs_MXNet/)
 - [Text classification with MXNet - GitHub](https://github.com/ThomasDelteil/TextClassificationCNNs_MXNet)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
