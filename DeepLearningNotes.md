@@ -36,6 +36,7 @@
 - [Train a Choripan Classifier with Fastai 1.0 & Google Colab](https://medium.com/@nicolas.metallo/train-a-choripan-classifier-with-fast-ai-v1-in-google-colab-6e438817656a)
 - [Text classification with MXNet](https://thomasdelteil.github.io/TextClassificationCNNs_MXNet/)
 - [Text classification with MXNet - GitHub](https://github.com/ThomasDelteil/TextClassificationCNNs_MXNet)
+- [Implementing ResNet with MXNET Gluon and Comet.ml for image classification](https://medium.com/apache-mxnet/implementing-resnet-with-mxnet-gluon-and-comet-ml-for-image-classification-9bb4ad93a53f)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 ## Interesting Stories about Job Finding:
