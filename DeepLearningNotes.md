@@ -37,6 +37,7 @@
 - [Text classification with MXNet](https://thomasdelteil.github.io/TextClassificationCNNs_MXNet/)
 - [Text classification with MXNet - GitHub](https://github.com/ThomasDelteil/TextClassificationCNNs_MXNet)
 - [Implementing ResNet with MXNET Gluon and Comet.ml for image classification](https://medium.com/apache-mxnet/implementing-resnet-with-mxnet-gluon-and-comet-ml-for-image-classification-9bb4ad93a53f)
+- [How to train Keras model x20 times faster with TPU for free](https://medium.com/swlh/how-to-train-keras-model-x20-times-faster-with-tpu-for-free-cac6cf5089cb)
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 ## Interesting Stories about Job Finding:
