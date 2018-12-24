@@ -38,6 +38,7 @@
 - [Text classification with MXNet - GitHub](https://github.com/ThomasDelteil/TextClassificationCNNs_MXNet)
 - [Implementing ResNet with MXNET Gluon and Comet.ml for image classification](https://medium.com/apache-mxnet/implementing-resnet-with-mxnet-gluon-and-comet-ml-for-image-classification-9bb4ad93a53f)
 - [How to train Keras model x20 times faster with TPU for free](https://medium.com/swlh/how-to-train-keras-model-x20-times-faster-with-tpu-for-free-cac6cf5089cb)
+- [Report on Text Classification using CNN, RNN & HAN](https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f)
 - [How to Build a Recommendation System for Purchase Data (Step-by-Step)](https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6) [_Useful & Interesting_]
 - [Primer for Learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6) [_Good & Useful_]
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
