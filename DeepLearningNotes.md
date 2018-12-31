@@ -39,6 +39,7 @@
 - [Implementing ResNet with MXNET Gluon and Comet.ml for image classification](https://medium.com/apache-mxnet/implementing-resnet-with-mxnet-gluon-and-comet-ml-for-image-classification-9bb4ad93a53f)
 - [How to train Keras model x20 times faster with TPU for free](https://medium.com/swlh/how-to-train-keras-model-x20-times-faster-with-tpu-for-free-cac6cf5089cb)
 - [How to train a Keras model to generate colors](https://heartbeat.fritz.ai/how-to-train-a-keras-model-to-generate-colors-3bc79e54971b)
+- [Key-point detection in flower images using deep learning](https://hackernoon.com/key-point-detection-in-flower-images-using-deep-learning-66a06aadc765)
 - [How Does A Face Detection Program Work?](https://towardsdatascience.com/how-does-a-face-detection-program-work-using-neural-networks-17896df8e6ff)
 - [Report on Text Classification using CNN, RNN & HAN](https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f)
 - [Faster R-CNN (object detection) implemented by Keras for custom data from Google’s Open Images Dataset V4](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a)
