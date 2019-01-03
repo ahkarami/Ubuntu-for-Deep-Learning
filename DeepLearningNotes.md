@@ -41,6 +41,7 @@
 - [How to train a Keras model to generate colors](https://heartbeat.fritz.ai/how-to-train-a-keras-model-to-generate-colors-3bc79e54971b)
 - [Key-point detection in flower images using deep learning](https://hackernoon.com/key-point-detection-in-flower-images-using-deep-learning-66a06aadc765)
 - [How Does A Face Detection Program Work?](https://towardsdatascience.com/how-does-a-face-detection-program-work-using-neural-networks-17896df8e6ff)
+- [Real-Time Face Pose Estimation with Deep Learning](https://medium.com/analytics-vidhya/face-pose-estimation-with-deep-learning-eebd0e62dbaf) [_Good_]
 - [Report on Text Classification using CNN, RNN & HAN](https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f)
 - [Faster R-CNN (object detection) implemented by Keras for custom data from Google’s Open Images Dataset V4](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a)
 - [How to Build a Recommendation System for Purchase Data (Step-by-Step)](https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6) [_Useful & Interesting_]
