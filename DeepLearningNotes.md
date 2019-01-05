@@ -45,6 +45,7 @@
 - [Report on Text Classification using CNN, RNN & HAN](https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f)
 - [Faster R-CNN (object detection) implemented by Keras for custom data from Google’s Open Images Dataset V4](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a)
 - [Introducing TF-Ranking](https://towardsdatascience.com/introducing-tf-ranking-f94433c33ff) [_Very Good_]
+- [Learning to Rank in TensorFlow](https://github.com/tensorflow/ranking) [_Good_]
 - [How to Build a Recommendation System for Purchase Data (Step-by-Step)](https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6) [_Useful & Interesting_]
 - [Primer for Learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6) [_Good & Useful_]
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
