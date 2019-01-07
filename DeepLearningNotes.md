@@ -42,6 +42,7 @@
 - [Key-point detection in flower images using deep learning](https://hackernoon.com/key-point-detection-in-flower-images-using-deep-learning-66a06aadc765)
 - [How Does A Face Detection Program Work?](https://towardsdatascience.com/how-does-a-face-detection-program-work-using-neural-networks-17896df8e6ff)
 - [Real-Time Face Pose Estimation with Deep Learning](https://medium.com/analytics-vidhya/face-pose-estimation-with-deep-learning-eebd0e62dbaf) [_Good_]
+- [Real Time Facial Expression Recognition](https://medium.com/datadriveninvestor/real-time-facial-expression-recognition-f860dacfeb6a) [_Good_]
 - [Report on Text Classification using CNN, RNN & HAN](https://medium.com/jatana/report-on-text-classification-using-cnn-rnn-han-f0e887214d5f)
 - [Faster R-CNN (object detection) implemented by Keras for custom data from Google’s Open Images Dataset V4](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a)
 - [Introducing TF-Ranking](https://towardsdatascience.com/introducing-tf-ranking-f94433c33ff) [_Very Good_]
