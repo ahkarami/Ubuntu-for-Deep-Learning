@@ -49,6 +49,7 @@
 - [Learning to Rank in TensorFlow](https://github.com/tensorflow/ranking) [_Good_]
 - [How to Build a Recommendation System for Purchase Data (Step-by-Step)](https://medium.com/datadriveninvestor/how-to-build-a-recommendation-system-for-purchase-data-step-by-step-d6d7a78800b6) [_Useful & Interesting_]
 - [Primer for Learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6) [_Good & Useful_]
+- [Introducing Wav2letter++](https://towardsdatascience.com/introducing-wav2latter-9e94ae13246) [**Very Good**]
 - [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-started-32fb9ff47426)  
 
 ## Interesting Stories about Job Finding:
