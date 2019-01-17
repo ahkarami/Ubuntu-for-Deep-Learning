@@ -62,6 +62,7 @@
 - [How to Get More Work Done in a Week Than Most People Do in a Month](https://medium.com/personal-growth/how-to-get-more-work-done-in-a-week-than-most-people-do-in-a-month-ca0328a0cdd2)
 - [What I’ve learned six months into my first job as a self-taught software engineer](https://medium.freecodecamp.org/what-ive-learned-six-months-into-my-first-job-as-a-self-taught-software-engineer-516b0703e86)
 - [Data Scientists: Why are they so expensive to hire?](https://medium.com/mindsdb/data-scientists-why-are-they-so-expensive-to-hire-7c173bbc1f1a)
+- [How two friends changed careers, learned to code, and built a startup](https://medium.freecodecamp.org/how-two-friends-changed-careers-learned-to-code-and-built-a-startup-e40c0b060de8)
 - [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)  
 
 ## Other:
