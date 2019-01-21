@@ -40,6 +40,7 @@
 - [How to train Keras model x20 times faster with TPU for free](https://medium.com/swlh/how-to-train-keras-model-x20-times-faster-with-tpu-for-free-cac6cf5089cb)
 - [How to train a Keras model to generate colors](https://heartbeat.fritz.ai/how-to-train-a-keras-model-to-generate-colors-3bc79e54971b)
 - [Key-point detection in flower images using deep learning](https://hackernoon.com/key-point-detection-in-flower-images-using-deep-learning-66a06aadc765)
+- [DeepPavlov - open source library for deep learning end-to-end dialog systems and chatbots](https://github.com/deepmipt/DeepPavlov) [_Interesting_]
 - [How Does A Face Detection Program Work?](https://towardsdatascience.com/how-does-a-face-detection-program-work-using-neural-networks-17896df8e6ff)
 - [Real-Time Face Pose Estimation with Deep Learning](https://medium.com/analytics-vidhya/face-pose-estimation-with-deep-learning-eebd0e62dbaf) [_Good_]
 - [Real Time Facial Expression Recognition](https://medium.com/datadriveninvestor/real-time-facial-expression-recognition-f860dacfeb6a) [_Good_]
