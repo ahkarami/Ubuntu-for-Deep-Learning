@@ -64,6 +64,7 @@
 - [What I’ve learned six months into my first job as a self-taught software engineer](https://medium.freecodecamp.org/what-ive-learned-six-months-into-my-first-job-as-a-self-taught-software-engineer-516b0703e86)
 - [Data Scientists: Why are they so expensive to hire?](https://medium.com/mindsdb/data-scientists-why-are-they-so-expensive-to-hire-7c173bbc1f1a)
 - [How two friends changed careers, learned to code, and built a startup](https://medium.freecodecamp.org/how-two-friends-changed-careers-learned-to-code-and-built-a-startup-e40c0b060de8)
+- [How I went from stuck and hopeless to making my tech career dreams come true](https://medium.freecodecamp.org/how-i-went-from-stuck-and-hopeless-to-making-my-tech-career-dreams-come-true-d1fcf52c0650)
 - [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)  
 
 ## Other:
