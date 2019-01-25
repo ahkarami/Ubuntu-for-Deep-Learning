@@ -65,6 +65,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [Extracting colours from an image using k-means clustering](https://towardsdatascience.com/extracting-colours-from-an-image-using-k-means-clustering-9616348712be)
 - [An Introduction to Text Summarization using the TextRank Algorithm (with Python implementation)](https://medium.com/analytics-vidhya/an-introduction-to-text-summarization-using-the-textrank-algorithm-with-python-implementation-2370c39d0c60)
 - [Batch and Streaming in the World of Data Science and Data Engineering](https://medium.com/capital-one-tech/batch-and-streaming-in-the-world-of-data-science-and-data-engineering-2cc029cdf554)
+- [Working With JSON Data in Python](https://realpython.com/python-json/)
 - [Duplicate Image Finder](https://github.com/philipbl/duplicate-images) [_Useful Repository_]
 - [How to build an image duplicate finder for your dataset](https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2) [_Useful Repository_]
 - [Fast, optimized ‘for’ pixel loops with OpenCV and Python](https://www.pyimagesearch.com/2017/08/28/fast-optimized-for-pixel-loops-with-opencv-and-python/) [_Useful_]
