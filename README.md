@@ -117,3 +117,8 @@ print(torch.__version__)
 - `Ctrl + Alt + T` that opened a terminal window.
 - `Ctrl + Shift + T` that opened a new tab in a terminal.
 
+### show the CUDA Installed version:
+- `sudo apt show cuda`
+
+
+
