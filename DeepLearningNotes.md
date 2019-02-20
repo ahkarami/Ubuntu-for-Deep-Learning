@@ -8,6 +8,7 @@
 - [Mobile apps will disappear soon](https://medium.com/@lancengym/mobile-apps-will-disappear-soon-4b4e54f46eb8)
 - [These 3 markets aren’t yet being served by AI and deep learning](https://towardsdatascience.com/these-3-markets-arent-yet-being-served-by-ai-and-deep-learning-3cde7ad20d50)
 - [Startups: What They Need to Know](https://medium.com/datadriveninvestor/startups-what-they-need-to-know-3ec719575d23)
+- [What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
 - [Biggest Artificial Intelligence Startups 2018](https://medium.com/swlh/biggest-artificial-intelligence-startups-2018-6722f4c733e2)  
 
 ## News about Deep Learning:
