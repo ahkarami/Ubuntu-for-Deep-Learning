@@ -9,6 +9,7 @@
 - [These 3 markets aren’t yet being served by AI and deep learning](https://towardsdatascience.com/these-3-markets-arent-yet-being-served-by-ai-and-deep-learning-3cde7ad20d50)
 - [Startups: What They Need to Know](https://medium.com/datadriveninvestor/startups-what-they-need-to-know-3ec719575d23)
 - [What I have learned after several AI projects](https://medium.com/predict/what-i-have-learned-after-several-ai-projects-131e345ac5cd)
+- [This Is Why A.I. Has Yet to Reshape Most Businesses](https://medium.com/mit-technology-review/this-is-why-a-i-has-yet-to-reshape-most-businesses-2f029d83b8d5)
 - [Biggest Artificial Intelligence Startups 2018](https://medium.com/swlh/biggest-artificial-intelligence-startups-2018-6722f4c733e2)  
 
 ## News about Deep Learning:
