@@ -70,6 +70,7 @@
 - [Data Scientists: Why are they so expensive to hire?](https://medium.com/mindsdb/data-scientists-why-are-they-so-expensive-to-hire-7c173bbc1f1a)
 - [How two friends changed careers, learned to code, and built a startup](https://medium.freecodecamp.org/how-two-friends-changed-careers-learned-to-code-and-built-a-startup-e40c0b060de8)
 - [How I went from stuck and hopeless to making my tech career dreams come true](https://medium.freecodecamp.org/how-i-went-from-stuck-and-hopeless-to-making-my-tech-career-dreams-come-true-d1fcf52c0650)
+- [What I Learned in My First Two Years as a Software Engineer](https://blog.usejournal.com/what-i-learned-in-my-first-two-years-as-a-software-engineer-4e374fdcf0fd)
 - [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)  
 
 ## Other:
