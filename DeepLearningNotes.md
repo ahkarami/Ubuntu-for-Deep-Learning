@@ -44,7 +44,8 @@
 - [Key-point detection in flower images using deep learning](https://hackernoon.com/key-point-detection-in-flower-images-using-deep-learning-66a06aadc765)
 - [Classifying Tweets for Sentiment Analysis: Natural Language Processing in Python for Beginners](https://medium.com/vickdata/detecting-hate-speech-in-tweets-natural-language-processing-in-python-for-beginners-4e591952223)
 - [DeepPavlov - open source library for deep learning end-to-end dialog systems and chatbots](https://github.com/deepmipt/DeepPavlov) [_Interesting_]
-- [Custom TensorFlow Loss Functions for Advanced Machine Learning](https://towardsdatascience.com/custom-tensorflow-loss-functions-for-advanced-machine-learning-f13cdd1d188a)
+- [Custom TensorFlow Loss Functions for Advanced Machine Learning](https://towardsdatascience.com/custom-tensorflow-loss-functions-for-advanced-machine-learning-f13cdd1d188a)  
+- [Bayesian Neural Network Series Post 1: Need for Bayesian Neural Networks](https://medium.com/neuralspace/bayesian-neural-network-series-post-1-need-for-bayesian-networks-e209e66b70b2)  
 - [How Does A Face Detection Program Work?](https://towardsdatascience.com/how-does-a-face-detection-program-work-using-neural-networks-17896df8e6ff)
 - [Real-Time Face Pose Estimation with Deep Learning](https://medium.com/analytics-vidhya/face-pose-estimation-with-deep-learning-eebd0e62dbaf) [_Good_]
 - [Real Time Facial Expression Recognition](https://medium.com/datadriveninvestor/real-time-facial-expression-recognition-f860dacfeb6a) [_Good_]
