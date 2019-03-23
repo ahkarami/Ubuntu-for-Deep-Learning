@@ -71,7 +71,11 @@
 - [How two friends changed careers, learned to code, and built a startup](https://medium.freecodecamp.org/how-two-friends-changed-careers-learned-to-code-and-built-a-startup-e40c0b060de8)
 - [How I went from stuck and hopeless to making my tech career dreams come true](https://medium.freecodecamp.org/how-i-went-from-stuck-and-hopeless-to-making-my-tech-career-dreams-come-true-d1fcf52c0650)
 - [What I Learned in My First Two Years as a Software Engineer](https://blog.usejournal.com/what-i-learned-in-my-first-two-years-as-a-software-engineer-4e374fdcf0fd)
-- [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190)  
+- [Top 12 Things That Destroy Developer Productivity](https://hackernoon.com/top-12-things-that-destroy-developer-productivity-2ddf0abc190) 
+
+## Excellent Deep Learning Tutorials:
+- [Very Good Deep Tutorials for PyTorch](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch)
+- [Very Good Tutorial to Object Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection) [_Excellent_]
 
 ## Other:
 - [A Software Engineering survival guide](https://medium.freecodecamp.org/a-software-engineering-survival-guide-fe3eafb47166)  
