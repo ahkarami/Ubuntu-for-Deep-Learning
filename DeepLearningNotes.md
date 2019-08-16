@@ -29,6 +29,7 @@
 - [Hacking Captcha with Deep Learning](https://medium.com/@normanyahq/breaking-the-captcha-an-application-of-enhancing-machine-learning-with-large-scale-graph-9366c9fcef07?source=email-2747cb15a660-1536122729018-digest.reader------1-59------------------d83bdb89_0d8f_474e_929d_3bcd99fba68a-1&sectionName=top)
 - [In Two Years, There Could Be 10 Million Self-Driving Cars on the Roads](https://medium.com/stanford-magazine/self-driving-cars-b23b66e3e9b0)
 - [Making Deep Learning User-Friendly, Possible?](https://towardsdatascience.com/making-deep-learning-user-friendly-possible-8fe3c1220f9)
+- [Inferring Route Travel Times with SpaceNet](https://medium.com/the-downlinq/inferring-route-travel-times-with-spacenet-7f55e1afdd6d)
 - [**Keras vs PyTorch: how to distinguish Aliens vs Predators with transfer learning**](https://medium.freecodecamp.org/keras-vs-pytorch-avp-transfer-learning-c8b852c31f02)
 - [Variational AutoEncoders for new fruits with Keras and Pytorch](https://becominghuman.ai/variational-autoencoders-for-new-fruits-with-keras-and-pytorch-6d0cfc4eeabd)
 - [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
