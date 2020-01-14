@@ -42,8 +42,9 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [An Introduction to the Linux Terminal](https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal)  
 
 ## How to Install Ubuntu Alongside With Windows:
-- [How to Install Ubuntu 16.10/16.04 Alongside With Windows 10 or 8 in Dual-Boot](https://www.tecmint.com/install-ubuntu-16-04-alongside-with-windows-10-or-8-in-dual-boot/)
+- [How to Install Ubuntu 16.10/16.04 Alongside With Windows 10 or 8 in Dual-Boot](https://www.tecmint.com/install-ubuntu-16-04-alongside-with-windows-10-or-8-in-dual-boot/)  [_Good_]
 - [Installing Ubuntu 18.04 along with Windows 10 (Dual Boot Installation) for Deep Learning](https://hackernoon.com/installing-ubuntu-18-04-along-with-windows-10-dual-boot-installation-for-deep-learning-f4cd91b58557)  
+- [20 Things To Do After Installing Ubuntu](https://www.tecmint.com/things-to-do-after-installing-ubuntu/)  
 
 ## Install Nvidia Drivers in Ubuntu:
 - [How to Install Nvidia Drivers in Ubuntu](https://www.tecmint.com/install-nvidia-drivers-on-ubuntu/)
