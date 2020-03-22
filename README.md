@@ -13,6 +13,7 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 - [How to Install Latest _Python 3.6_ Version in Linux](https://www.tecmint.com/install-python-in-linux/)
 - [20 Command Line Tools to Monitor Linux Performance](https://www.tecmint.com/command-line-tools-to-monitor-linux-performance/)
 - [Check CUDA and cuDNN version](https://medium.com/@changrongko/nv-how-to-check-cuda-and-cudnn-version-e05aa21daf6c)
+- [Add “New Document” back to the right-click menu in Ubuntu 18.04](https://vitux.com/add-new-document-back-to-the-right-click-menu-in-ubuntu-18-04/)  
 
 ### Package Management Notes in Ubuntu:
 - [3 Command Line Tools to Install Local Debian (.DEB) Packages](https://www.tecmint.com/install-local-deb-packages-in-debian-ubuntu-linux-mint/)
