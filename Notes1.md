@@ -89,3 +89,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 ## Setup OpenCV for Android:
 - [A Beginner’s Guide to Setting up OpenCV Android Library on Android Studio](https://android.jlelse.eu/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c)
 
+## Play `.wma` files in ubuntu 18:
+- `sudo apt install gstreamer1.0-plugins-ugly`
+- [Reference: Is there a free option for playing WMA files?](https://askubuntu.com/questions/38091/is-there-a-free-option-for-playing-wma-files)  
+
