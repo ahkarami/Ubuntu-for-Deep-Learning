@@ -93,3 +93,8 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - `sudo apt install gstreamer1.0-plugins-ugly`
 - [Reference: Is there a free option for playing WMA files?](https://askubuntu.com/questions/38091/is-there-a-free-option-for-playing-wma-files)  
 
+## Ubuntu Screenshots and screen casts:
+- `Shift+Prt Scrn` to take a screenshot of an area you select.  
+- The image is automatically saved in your `Pictures` folder in your `home` folder with a file name that begins with Screenshot and includes the date and time it was taken.  
+- [Reference](Link: https://help.ubuntu.com/stable/ubuntu-help/screen-shot-record.html)  
+
