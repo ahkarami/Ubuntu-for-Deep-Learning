@@ -96,5 +96,5 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 ## Ubuntu Screenshots and screen casts:
 - `Shift+Prt Scrn` to take a screenshot of an area you select.  
 - The image is automatically saved in your `Pictures` folder in your `home` folder with a file name that begins with Screenshot and includes the date and time it was taken.  
-- [Reference](Link: https://help.ubuntu.com/stable/ubuntu-help/screen-shot-record.html)  
+- [Reference](https://help.ubuntu.com/stable/ubuntu-help/screen-shot-record.html)  
 
