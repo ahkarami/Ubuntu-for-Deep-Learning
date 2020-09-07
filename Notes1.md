@@ -29,6 +29,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 
 ## GPU Process Monitoring in Ubuntu:
 - `watch -n0.1 nvidia-smi` --> Where 0.1 is the time interval, in seconds.  
+- [NVTOP - NVidia TOP](https://github.com/Syllo/nvtop)  
 
 ## Install `Tex` in Ubuntu:
 - type `sudo apt-get install texlive`
