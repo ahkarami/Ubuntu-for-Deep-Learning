@@ -100,6 +100,9 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - The image is automatically saved in your `Pictures` folder in your `home` folder with a file name that begins with Screenshot and includes the date and time it was taken.  
 - [Reference](https://help.ubuntu.com/stable/ubuntu-help/screen-shot-record.html)  
 
+## VNC Connect - is a screen sharing software [_e.g._, for Ubuntu Servers]:  
+- [VNC Connect](https://www.realvnc.com/en/connect/download/vnc/linux/)  
+
 ## Download a large file from Google Drive (via Ubuntu CLI or Python):
 - [gdown - Download a large file from Google Drive](https://pypi.org/project/gdown/)  [_Great_]  
 - [gdown - Download Google Drive files from CLI or Python](https://github.com/wkentaro/gdown) [_Great_]    
