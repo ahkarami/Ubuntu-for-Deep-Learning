@@ -107,4 +107,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [gdown - Download a large file from Google Drive](https://pypi.org/project/gdown/)  [_Great_]  
 - [gdown - Download Google Drive files from CLI or Python](https://github.com/wkentaro/gdown) [_Great_]    
 
+## Upload files from Ubuntu CLI:
+- [File Sharing from Linux Command Line](https://www.tecmint.com/file-sharing-from-linux-commandline/) [**Great**]  
+
 
