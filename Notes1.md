@@ -54,12 +54,16 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [Most Popular Download Managers for Linux](https://www.tecmint.com/download-managers-for-linux/)  [_I use KGet_]  
 
 ## Upgrade Ubuntu 18.04 To Ubuntu 20.04:
-- [https://www.linuxbabe.com/ubuntu/upgrade-ubuntu-18-04-to-ubuntu-20-04](https://www.linuxbabe.com/ubuntu/upgrade-ubuntu-18-04-to-ubuntu-20-04)  
+- [2 Ways to Upgrade Ubuntu 18.04 To Ubuntu 20.04 (Graphical & Terminal)](https://www.linuxbabe.com/ubuntu/upgrade-ubuntu-18-04-to-ubuntu-20-04)  
 - [Error `symbol-grub-file-filters` for upgrading ubuntu18.04 to 20.04](https://askubuntu.com/questions/1267970/error-symbol-grub-file-filters-not-found-upgrade-ubuntu18-04-to-20-04)    
 
 ## Install Nvidia Drivers in Ubuntu:
 - [How to Install Nvidia Drivers in Ubuntu](https://www.tecmint.com/install-nvidia-drivers-on-ubuntu/)
 - [Install NVIDIA Driver and CUDA on Ubuntu](https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07)  
+
+## Remove CUDA:
+- [Removing Nvidia CUDA Toolkit](https://askubuntu.com/questions/530043/removing-nvidia-cuda-toolkit-and-installing-new-one)  
+- [How to Remove cuda Completely from Ubuntu](https://stackoverflow.com/questions/56431461/how-to-remove-cuda-completely-from-ubuntu)  
 
 ## Some Notes about Python:
 - [Python, argparse, and command line arguments](https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/) [**Very Important**]
