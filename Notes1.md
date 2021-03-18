@@ -57,6 +57,10 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [2 Ways to Upgrade Ubuntu 18.04 To Ubuntu 20.04 (Graphical & Terminal)](https://www.linuxbabe.com/ubuntu/upgrade-ubuntu-18-04-to-ubuntu-20-04)  
 - [Error `symbol-grub-file-filters` for upgrading ubuntu18.04 to 20.04](https://askubuntu.com/questions/1267970/error-symbol-grub-file-filters-not-found-upgrade-ubuntu18-04-to-20-04)    
 
+## Simple Ways To Free Up Space on Ubuntu:
+- [5 Simple Ways To Free Up Space on Ubuntu](https://www.omgubuntu.co.uk/2016/08/5-ways-free-up-space-on-ubuntu)  
+- [5 Best Ways to Free up Hard Disk Space in Ubuntu](https://www.fosslinux.com/2986/free-up-hard-disk-space-ubuntu.htm)  
+
 ## Install Nvidia Drivers in Ubuntu:
 - [How to Install Nvidia Drivers in Ubuntu](https://www.tecmint.com/install-nvidia-drivers-on-ubuntu/)
 - [Install NVIDIA Driver and CUDA on Ubuntu](https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07)  
