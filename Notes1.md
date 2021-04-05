@@ -31,6 +31,10 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - `watch -n0.1 nvidia-smi` --> Where 0.1 is the time interval, in seconds.  
 - [NVTOP - NVidia TOP](https://github.com/Syllo/nvtop)  
 
+## Disable Sleep in Ubuntu:
+- [Disable Sleep in Ubuntu - Link1](https://www.unixtutorial.org/disable-sleep-on-ubuntu-server/)  
+- [Disable Sleep in Ubuntu - Link2](https://askubuntu.com/questions/47311/how-do-i-disable-my-system-from-going-to-sleep)  
+
 ## Install `Tex` in Ubuntu:
 - type `sudo apt-get install texlive`
 - type `sudo apt-get install texstudio`
