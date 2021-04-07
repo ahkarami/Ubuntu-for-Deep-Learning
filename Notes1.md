@@ -70,6 +70,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [5 Best Ways to Free up Hard Disk Space in Ubuntu](https://www.fosslinux.com/2986/free-up-hard-disk-space-ubuntu.htm)  
 
 ## Install Nvidia Drivers in Ubuntu:
+- [Install the Nvidia Drivers on Ubuntu 20.04](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux)  
 - [How to Install Nvidia Drivers in Ubuntu](https://www.tecmint.com/install-nvidia-drivers-on-ubuntu/)
 - [Install NVIDIA Driver and CUDA on Ubuntu](https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07)  
 
