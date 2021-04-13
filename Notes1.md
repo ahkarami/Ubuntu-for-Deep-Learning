@@ -44,6 +44,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 ## Some Notes about Terminal in Ubuntu:
 - [A Gentle Introduction to tmux](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)
 - [An Introduction to the Linux Terminal](https://www.digitalocean.com/community/tutorials/an-introduction-to-the-linux-terminal)  
+- [How to use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)   
 
 ### Beautiful Terminal in Ubuntu:
 - [How you can style your terminal like Medium, freeCodeCamp, or any way you want](https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc)
