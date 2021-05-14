@@ -80,6 +80,12 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 - [Removing Nvidia CUDA Toolkit](https://askubuntu.com/questions/530043/removing-nvidia-cuda-toolkit-and-installing-new-one)  
 - [How to Remove cuda Completely from Ubuntu](https://stackoverflow.com/questions/56431461/how-to-remove-cuda-completely-from-ubuntu)  
 
+## SSH Notes:
+- [How To Create a Sudo User on Ubuntu](https://linuxize.com/post/how-to-create-a-sudo-user-on-ubuntu/)  
+
+## VPN Notes:
+- [Openconnect VPN Client](https://tu-dresden.de/zih/dienste/service-katalog/arbeitsumgebung/zugang_datennetz/vpn/openconnect_vpn_client?set_language=en)  
+
 ## Some Notes about Python:
 - [Python, argparse, and command line arguments](https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/) [**Very Important**]
 - [Tools to run Python on Android](https://medium.com/@umerfarooq_26378/tools-to-run-python-on-android-9060663972b4) [_Very Interesting_]
