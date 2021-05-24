@@ -132,6 +132,9 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 ## Manipulating rar Files in Ubuntu:
 - [How to Open, Extract, and Create rar Files in Linux](https://www.tecmint.com/how-to-open-extract-and-create-rar-files-in-linux/)  
 
+## Mount HDD in Ubuntu:
+- [How to Extend Linux LVM Logical Volume](https://networklessons.com/uncategorized/extend-lvm-partition)  
+
 ## VNC Connect - is a screen sharing software [_e.g._, for Ubuntu Servers]:  
 - [VNC Connect](https://www.realvnc.com/en/connect/download/vnc/linux/)  
 
