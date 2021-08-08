@@ -69,6 +69,7 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 ## Simple Ways To Free Up Space on Ubuntu:
 - [5 Simple Ways To Free Up Space on Ubuntu](https://www.omgubuntu.co.uk/2016/08/5-ways-free-up-space-on-ubuntu)  
 - [5 Best Ways to Free up Hard Disk Space in Ubuntu](https://www.fosslinux.com/2986/free-up-hard-disk-space-ubuntu.htm)  
+- [root disk space is full after an upgrade to the newest version of ubuntu](https://askubuntu.com/questions/1324722/my-root-disk-space-is-full-after-an-upgrade-to-the-newest-version-of-ubuntu)   
 
 ## Install Nvidia Drivers in Ubuntu:
 - [Install the Nvidia Drivers on Ubuntu 20.04](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux)  
