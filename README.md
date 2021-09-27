@@ -31,6 +31,8 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 ### Docker:
 - [Learn more about how to install docker](https://github.com/Microsoft/MMdnn/blob/master/docs/InstallDockerCE.md) [_Install Docker Community Edition(CE)_]
 
+### Set & Change DNS on Ubuntu Server:
+- [How to set DNS nameservers on Ubuntu](https://linuxize.com/post/how-to-set-dns-nameservers-on-ubuntu-18-04/)   
 
 ## Install deep learning packages:
 
