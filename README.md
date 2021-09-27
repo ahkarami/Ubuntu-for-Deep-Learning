@@ -33,6 +33,7 @@ Useful notes about Ubuntu (especially for **Deep Learning** code developers)
 
 ### Set & Change DNS on Ubuntu Server:
 - [How to set DNS nameservers on Ubuntu](https://linuxize.com/post/how-to-set-dns-nameservers-on-ubuntu-18-04/)   
+- [Ubuntu DNS nameservers](https://phoenixnap.com/kb/ubuntu-dns-nameservers)   
 
 ## Install deep learning packages:
 
