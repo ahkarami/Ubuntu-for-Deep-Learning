@@ -149,4 +149,6 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 ## Upload files from Ubuntu CLI:
 - [File Sharing from Linux Command Line](https://www.tecmint.com/file-sharing-from-linux-commandline/) [**Great**]  
 
+## Great Ubuntu Tools:
+- [lite-xl Notepad](https://itsfoss.com/lite-xl/)  
 
