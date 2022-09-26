@@ -152,4 +152,4 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 ## Great Ubuntu Tools:
 - [lite-xl Notepad](https://itsfoss.com/lite-xl/)  
 - [Scrivano for Handwritten Notes](https://scrivanolabs.github.io/) [**Great**]  
-- [EverNote EvreSticky for Ubuntu](https://snapcraft.io/eversticky)  
+- [EverNote EverSticky for Ubuntu](https://snapcraft.io/eversticky)  
