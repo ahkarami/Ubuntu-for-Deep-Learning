@@ -30,6 +30,8 @@ Know the **PID** of exact process (_e.g.,_ mysqld):
 ## GPU Process Monitoring in Ubuntu:
 - `watch -n0.1 nvidia-smi` --> Where 0.1 is the time interval, in seconds.  
 - [NVTOP - NVidia TOP](https://github.com/Syllo/nvtop)  
+- [NVidia TOP (like htop, but for GPU Monitoring)](https://github.com/peci1/nvidia-htop) [Interesting]  
+  - `watch -c nvidia-htop.py -c`   
 
 ## Disable Sleep in Ubuntu:
 - [Disable Sleep in Ubuntu - Link1](https://www.unixtutorial.org/disable-sleep-on-ubuntu-server/)  
